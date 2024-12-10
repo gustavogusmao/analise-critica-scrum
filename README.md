@@ -19,16 +19,18 @@ Não considero essa abordagem a melhor, pois "rebaixa" a comunicação dos membr
 A solução para o problema, começou com uma troca de experiência entre a equipe do Premiere Pro e a equipe do Soundbooth que ja estava utilizando o Scrum há 2 anos, o que ajudou na solução de problemas da equipe e tranquiliza-los. Após o fim da primeira sprint, já foi possivel realizar testes completos, se tivessem seguido uma abordagem mais tradicional, o teste teria sido dificultado até que todo o backend e a interface de usuário fossem desenvolvidos.
 
 3 - Trabalho com equipes não ageis
-O Premiere Pro, possui integração de componentes com diversos outros softwares da Adobe, alem dessa integração, a Adobe desenvolveu vários componentes de tecnologia central que são utilizados
-em toda a suite. Os softwares de video dividem o mesmo motor de midia, por exemplo.
-Para que seja possivel essa integração, são realizadas reuniões de alinhamento de trabalho entre as equipes da Adobe. Mas nem todas as equipes adotaram o Scrum, e algumas ainda utilizavam metódos tradicionais de trabalho. Como a integração era necessária, o time ágil teve que se adaptar a velocidade do time tradicional, adaptando alguns procedimentos das equipes tradicionais para o Scrum. Como por exemplo o citado "end game" acima, onde foram criadas as chamadas "sprints de endurecimento", para que a equipe pudesse acompanhar as equipes não ageis nas questões de integração dos produtos. 
+O Premiere Pro, possui integração de componentes com diversos outros softwares da Adobe, alem dessa integração, a Adobe desenvolveu vários componentes de tecnologia central que são utilizados em toda a suite. Os softwares de video dividem o mesmo motor de midia, por exemplo.
+Para que seja possivel essa integração, são realizadas reuniões de alinhamento de trabalho entre as equipes da Adobe. Mas nem todas as equipes adotaram o Scrum. Como a integração era necessária, o time ágil teve que se adaptar a velocidade do time tradicional, adaptando alguns procedimentos das equipes tradicionais para o Scrum. Como por exemplo o citado "end game" acima, onde foram criadas as chamadas "sprints de endurecimento", para que a equipe pudesse acompanhar as equipes não ageis nas questões de integração dos produtos. 
 
+Resultados da adoção do Scrum
 
+1 - Melhorias na qualidade
+Comparando os ciclos CS4 e CS5, menos defeitos foram abertos, no CS5 a equipe corrigiu 20 defeitos a menos por mês e adiou 5% menos defeitos que no ciclo CS4, e o "pico" de defeitos foi 43% menor do que no ciclo anterior. Isso se atribui a uma melhor decomposição dos itens de trabalho, melhor compreensão da equipe, a capacidade de testar mais cedo, a abordagem multifuncional, onde os planos são feitos pelos desenvolvedores e os QAs juntos, e a uma definição de pronto bem estabelecida pela equipe, assim como a disciplina para alcança-la.
 
+2 - Percepção da equipe
+O primeiro valor do Manifesto Ágil é "Indivíduos e Interações sobre Processos e Ferramentas". Foram realizadas 2 pesquisas em mometos diferentes com a equipe sobre a percepção do Scrum, e em todos os parâmetros a pontuação foi melhor na segunda pesquisa, o que demostra a boa aceitação do Scrum pela equipe. 
+Devido ao menor numero de defeitos, os 6 meses finais do ciclo, o chamado "end game", pode ser usado para limpeza e refatoração do código, algo que nunca antes tiveram tempo de fazer.
 
-
-
-
-
-
+3 - Percepção do mercado
+A adobe realizou pesquisas com os usuários, onde avaliaram um comparativo entre o Premier Pro e os seus concorrentes. Houve uma melhoria perceptivel em relação também aos concorrentes, o que demostra todo o sucesso do Premiere Pro CS5.
 
