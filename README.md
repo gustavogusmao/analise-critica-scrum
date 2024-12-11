@@ -1,10 +1,10 @@
 # Analise crítica case de sucesso Adobe Premiere Pro
 Repositório para análise critica de case de sucesso do Adobe Premiere Pro, para o curso "Formação Scrum Master Certification" da DIO.
 
-# Do modelo tradicional, para o Scrum
+# Do modelo tradicional, ao Scrum
 
 O adobe Premiere Pro é um software de edição de vídeos da Adobe, desenvolvido desde 1991. A equipe adotou o Scrum em 2008 para o desenvolvimento da versão CS5.
-Na versão CS4 foi usado o modelo tradicional e por fases. Passaram 6 meses dos 2 anos de desenvolvimento corrigindo defeitos e fazendo melhorarias na qualidade, período chamado por eles de "end game". Neste período alguns membros da equipe foram hospitalizados devido a exaustão do trabalho. O resultado foi a entrega de um produto abaixo das expectativas da equipe e do mercado, onde o Premiere Pro perdeu participação.
+Na versão CS4 foi usado o modelo tradicional e por fases. Passaram 6 meses dos 2 anos de desenvolvimento corrigindo defeitos e fazendo melhorarias na qualidade, período chamado por eles de "end game". Neste período alguns membros da equipe foram hospitalizados devido à exaustão do trabalho. O resultado foi a entrega de um produto abaixo das expectativas da equipe e do mercado, onde o Premiere Pro perdeu participação.
 Devido a estes problemas, e após observarem um case de sucesso com o Scrum do Adobe Soundbooth, foi decidida a adoção do Framework.
 
 Foi contratado então um Agile Coach, que fez o treinamento da equipe. Foi adotada uma sprint de 4 semanas, e a equipe foi dividida em 3 times. Foram definidos os papeis do Scrum Master e Product Owner (P.O.). Apesar do Framework Scrum definir o P.O. sempre como uma pessoa, e equipe decidiu nomear um gerente de projetos como P.O., e fazer dos outros gerentes, "consultores".
